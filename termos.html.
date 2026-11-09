@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Termos de Uso — Clyvo</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: #111315;
+      color: #f4f4f5;
+      font: 16px/1.7 Arial, sans-serif;
+    }
+    main {
+      max-width: 820px;
+      margin: auto;
+      padding: 40px 24px;
+    }
+    .marca {
+      color: #ff974f;
+      font-size: 28px;
+      font-weight: bold;
+    }
+    h1 { font-size: 32px; line-height: 1.2; }
+    h2 { margin-top: 36px; font-size: 22px; }
+    p, li { color: #d0d2d6; }
+    li { margin-bottom: 12px; }
+    a { color: #ffad78; overflow-wrap: anywhere; }
+    a:focus-visible {
+      outline: 3px solid #fff;
+      outline-offset: 4px;
+    }
+    .aviso {
+      padding: 16px;
+      border: 1px solid #555;
+      border-radius: 12px;
+    }
+    footer {
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid #45474c;
+    }
+  </style>
+</head>
+<body>
+<main>
+  <div class="marca">Clyvo</div>
+  <h1>Termos de Uso</h1>
+  <p>Atualização desta página: 9 de novembro de 2026.</p>
+  <p>
+    Responsável: Renan Cardoso Messias — SkyBreakers Studio.<br>
+    Aparecida de Goiânia — GO.<br>
+    Contato:
+    <a href="mailto:skybreakersstudio@gmail.com">
+      skybreakersstudio@gmail.com
+    </a>
+  </p>
+
+  <h2>1. O que é o Clyvo</h2>
+  <p>
+    O Clyvo é um aplicativo para profissionais autônomos,
+    vendedores, pequenos comerciantes e prestadores de serviços
+    organizarem clientes, oportunidades e propostas.
+  </p>
+  <p>
+    O marketplace permite publicar oportunidades e acompanhar
+    interações relacionadas às publicações, conforme as
+    funcionalidades disponíveis.
+  </p>
+  <p>
+    Ao criar uma conta, você concorda com estes Termos e com a
+    <a href="privacidade.html">Política de Privacidade</a>.
+    Se não concordar, não utilize o aplicativo.
+  </p>
+
+  <h2>2. Sua conta</h2>
+  <ul>
+    <li>
+      Você precisa ter 18 anos ou mais e fornecer informações
+      verdadeiras.
+    </li>
+    <li>
+      A senha é pessoal. Mantenha suas credenciais em segurança.
+    </li>
+    <li>
+      Se desconfiar de acesso indevido, troque a senha e avise-nos
+      imediatamente.
+    </li>
+    <li>
+      Uma conta pertence a uma pessoa ou negócio. Compartilhar
+      o mesmo login com várias pessoas é desaconselhado e pode
+      prejudicar a segurança e a organização dos seus registros.
+    </li>
+  </ul>
+
+  <h2>3. Planos e assinatura</h2>
+  <ul>
+    <li>
+      <strong>Free:</strong> até 5 clientes ativos,
+      5 orçamentos por mês e 10 itens no catálogo.
+    </li>
+    <li>
+      <strong>Pro:</strong> preço de referência de R$ 14,99 por mês,
+      até 100 clientes, 100 orçamentos por mês e
+      100 itens no catálogo.
+    </li>
+    <li>
+      <strong>Pro Plus:</strong> preço de referência de R$ 30,99
+      por mês, até 500 clientes, 300 orçamentos por mês e
+      500 itens no catálogo.
+    </li>
+    <li>
+      As cotas mensais de orçamentos seguem o mês civil em UTC,
+      sem acúmulo. Mudar de plano não zera o uso do mês.
+    </li>
+    <li>
+      Compras ficam disponíveis apenas em instalações Android
+      com a integração da loja ativa. Confira o preço, a moeda
+      e as condições na tela de confirmação da Google Play
+      antes de pagar. A assinatura renova automaticamente
+      até o cancelamento.
+    </li>
+    <li>
+      Gerencie ou cancele sua assinatura na seção
+      <a href="https://play.google.com/store/account/subscriptions">
+        Assinaturas da Google Play
+      </a>.
+      Cancelar a renovação mantém o acesso até o fim do período
+      pago, salvo reembolso ou revogação.
+    </li>
+    <li>
+      Excluir a conta Clyvo não cancela a renovação na loja.
+      Restaurar compras exige a conta correta na loja e no Clyvo.
+    </li>
+    <li>
+      Ao exceder o limite ou voltar ao Free, os registros existentes
+      não são apagados: você pode consultar, editar e exportar
+      seus dados. Novos cadastros respeitam a capacidade do plano.
+    </li>
+  </ul>
+  <p class="aviso">
+    <strong>Assistente Cly: em breve.</strong>
+    A geração de conteúdo por inteligência artificial está
+    indisponível nesta versão. Não há gerações da Cly disponíveis
+    como benefício dos planos nesta versão. As condições de uma
+    eventual disponibilização serão informadas antes da ativação.
+  </p>
+
+  <h2>4. Seus dados são seus</h2>
+  <p>
+    Os clientes, produtos e propostas que você cadastra pertencem
+    a você. Não reivindicamos propriedade sobre eles e não os
+    usamos para outra finalidade além de operar o serviço.
+  </p>
+  <p>
+    Você pode solicitar a exportação dos seus dados ou a exclusão
+    da sua conta a qualquer momento.
+  </p>
+  <p>
+    Ao publicar conteúdo no marketplace, você autoriza sua exibição
+    dentro dessa funcionalidade e sua análise para moderação.
+    Isso não transfere a propriedade do conteúdo ao Clyvo.
+  </p>
+
+  <h2>5. Uso responsável</h2>
+  <p>Ao usar o Clyvo, você se compromete a não:</p>
+  <ul>
+    <li>
+      Cadastrar dados de pessoas sem ter um motivo legítimo
+      para isso.
+    </li>
+    <li>
+      Enviar mensagens em massa, spam ou qualquer comunicação
+      que viole as regras do WhatsApp.
+    </li>
+    <li>Usar o aplicativo para atividade ilegal, fraude ou golpe.</li>
+    <li>
+      Publicar conteúdo sexual explícito, nudez sexualizada
+      ou exploração sexual.
+    </li>
+    <li>
+      Anunciar armas, munições, explosivos, drogas ilícitas
+      ou outros produtos e serviços proibidos pelas regras
+      do marketplace.
+    </li>
+    <li>
+      Publicar ameaças, incitação à violência, discriminação
+      ou conteúdo que viole direitos de outras pessoas.
+    </li>
+    <li>
+      Divulgar dados pessoais de terceiros sem autorização
+      ou outra base adequada.
+    </li>
+    <li>
+      Tentar burlar limites de plano, acessar dados privados
+      de outras contas ou sobrecarregar o serviço.
+    </li>
+    <li>
+      Copiar, revender ou redistribuir o Clyvo como se fosse seu.
+    </li>
+  </ul>
+
+  <h2>6. Mensagens de WhatsApp</h2>
+  <p>
+    O Clyvo monta o texto e abre o WhatsApp para você revisar
+    e enviar. Não enviamos mensagens automaticamente, não lemos
+    suas conversas e não temos vínculo com a Meta.
+  </p>
+  <p>
+    O cumprimento das regras do WhatsApp e a forma como você
+    aborda cada contato são de sua responsabilidade.
+  </p>
+
+  <h2>7. Disponibilidade</h2>
+  <p>
+    Trabalhamos para manter o serviço disponível, mas podem
+    ocorrer interrupções por manutenção, falha de fornecedor
+    ou causas fora do nosso controle.
+  </p>
+  <p>
+    Não garantimos disponibilidade ininterrupta. Quando possível,
+    avisaremos com antecedência sobre manutenções programadas.
+  </p>
+
+  <h2>8. Limitação de responsabilidade</h2>
+  <p>
+    O Clyvo é uma ferramenta de organização. As decisões
+    comerciais, os preços que você pratica e o conteúdo
+    das suas propostas são de sua responsabilidade.
+  </p>
+  <p>
+    Nada nestes Termos exclui direitos ou afasta responsabilidades
+    que não possam ser limitadas pela legislação aplicável.
+  </p>
+
+  <h2>9. Encerramento</h2>
+  <ul>
+    <li>
+      Você pode excluir sua conta pelo aplicativo, confirmando
+      sua identidade conforme as instruções apresentadas.
+    </li>
+    <li>
+      Você também pode acessar a
+      <a href="excluir-conta.html">página de exclusão de conta</a>
+      para solicitar a exclusão por e-mail.
+      Nunca envie sua senha por e-mail.
+    </li>
+    <li>
+      Podemos suspender ou encerrar contas que descumpram estes
+      Termos, avisando com antecedência sempre que possível.
+    </li>
+    <li>
+      Se descontinuarmos o Clyvo, avisaremos com pelo menos
+      60 dias de antecedência e disponibilizaremos a exportação
+      dos seus dados.
+    </li>
+    <li>
+      Excluir sua conta no Clyvo não cancela automaticamente
+      uma assinatura ativa na Google Play.
+    </li>
+  </ul>
+
+  <h2>10. Mudanças nos termos</h2>
+  <p>
+    Podemos atualizar estes Termos. Mudanças relevantes serão
+    avisadas dentro do aplicativo com pelo menos 30 dias de
+    antecedência. A comunicação indicará quando a nova versão
+    entrará em vigor e se alguma ação sua será necessária.
+  </p>
+
+  <h2>11. Lei aplicável</h2>
+  <p>
+    Estes Termos seguem a legislação brasileira, respeitados
+    os direitos e as regras de competência aplicáveis ao usuário.
+  </p>
+
+  <h2>12. Contato</h2>
+  <p>
+    Renan Cardoso Messias — SkyBreakers Studio.<br>
+    Aparecida de Goiânia — GO.<br>
+    <a href="mailto:skybreakersstudio@gmail.com">
+      skybreakersstudio@gmail.com
+    </a>
+  </p>
+
+  <footer>
+    <a href="privacidade.html">Política de Privacidade</a>
+    ·
+    <a href="excluir-conta.html">Excluir conta</a>
+  </footer>
+</main>
+</body>
+</html>
